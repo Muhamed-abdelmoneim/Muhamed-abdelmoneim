@@ -1,52 +1,79 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-<h3 align="center">Data Engineer | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
-
-## I little bit about me
-
-🎓 &nbsp;I'm currently working towards an AWS Data Engineering Cert. \
-🌱 &nbsp;I'm on track with learning more about DataOps, MLOps, DevOps and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
-💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
-✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
-📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
-
----
-
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
-
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
-
----
-
-## Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Simplified LLM Telemetry Using Dual-Destination Observability Without Performance Degradation](https://blog.mphomphego.co.za/blog/2025/12/08/How-I-Simplified-LLM-Telemetry-Using-Dual-Destination-Observability-Without-Performance-Degradation.html)
-- [How To Enforce SQL Code Quality Using SQLFluff, Pre-Commit And GitHub Actions](https://blog.mphomphego.co.za/blog/2024/10/11/How-to-Enforce-SQL-Code-Quality-using-SQLFluff-Pre-Commit-and-GitHub-Actions.html)
-- [How An EC2 Instance Became My Go-To Remote Development Solution Using Terraform](https://blog.mphomphego.co.za/blog/2024/08/18/How-An-EC2-Instance-Became-My-Go-To-Remote-Development-Solution.html)
-- [How To Automate Jira And Confluence Using Python](https://blog.mphomphego.co.za/blog/2024/05/22/How-to-automate-Jira-and-Confluence-using-Python.html)
-- [How To Connect To AWS Athena Using DBeaver Community Edition Via AWS SSO](https://blog.mphomphego.co.za/blog/2023/12/27/How-to-connect-to-AWS-Athena-using-DBeaver-Community-Edition-via-AWS-SSO.html)
-- [How To Verify Data Quality On Tables Landed On AWS Data Lake And Data Warehouse](https://blog.mphomphego.co.za/blog/2023/11/11/How-to-Verify-Data-Quality-on-Tables-Landed-on-AWS-Data-Lake-and-Data-Warehouse.html)
-- [How To Efficiently Extract Tables From MSSQL Server To A Data Lake](https://blog.mphomphego.co.za/blog/2023/08/02/How-to-Efficiently-Extract-Tables-from-MSSQL-Server-to-a-Data-Lake.html)
-- [Managing Jenkins Plugins](https://blog.mphomphego.co.za/blog/2022/06/24/Managing-Jenkins-Plugins.html)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 1&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-1.html)
-- [How I Setup Jenkins On Docker Container Using Ansible &lpar;Part 2&rpar;](https://blog.mphomphego.co.za/blog/2022/05/09/How-I-setup-Jenkins-on-Docker-container-using-Ansible-Part-2.html)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## Links
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=800&color=1ABC9C&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mohamed+Abd+El-Moneim;Data+Analyst+%7C+Turning+Data+into+Insights;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-  <a href="mailto:mpho@mphomphego.co.za"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://hub.docker.com/u/mmphego"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
-  <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://twitter.com/mphomphego"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href= "https://tiktok.com/@mph0.m"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
+  <b>Data Analyst</b> passionate about transforming raw data into meaningful stories and actionable insights.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-0D1B2A?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Insights-1ABC9C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Decision%20Making-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 📊 Data Analyst with hands-on experience in **data cleaning, analysis, and visualization**
+- 🧠 Strong analytical mindset with attention to detail
+- 📈 Love converting complex datasets into **clear dashboards & insights**
+- 🚀 Always learning and improving my data skills
+
+---
+
+## 🛠 Tech Stack & Skills
+
+### 🔹 Data Analysis
+![SQL](https://img.shields.io/badge/SQL-0D1B2A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Excel](https://img.shields.io/badge/Excel-1ABC9C?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-0D1B2A?style=for-the-badge&logo=powerbi)
+
+### 🔹 Python Libraries
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-1ABC9C?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1B2A?style=for-the-badge)
+
+---
+
+## 📂 Featured Projects
+> *Real-world projects focused on business questions and data-driven decisions.*
+
+- 📊 **Sales Analysis Dashboard (Power BI)**  
+  → Cleaned data, built KPIs, and created interactive dashboards.
+
+- 🐍 **Data Cleaning & EDA with Python**  
+  → Handled missing values, outliers, and performed exploratory analysis.
+
+- 🧮 **SQL Business Queries**  
+  → Complex joins, CTEs, aggregations, and performance-focused queries.
+
+👉 *More projects inside the repositories.*
+
+---
+
+## 📈 What I Bring
+✔ Clear data storytelling  
+✔ Clean & optimized analysis  
+✔ Business-oriented mindset  
+✔ Strong visualization skills  
+
+---
+
+## 📬 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-abd-elmoneim-466300350" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamed.abd.elmoneim1220@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1ABC9C?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Data is not just numbers, it's a story waiting to be told."</i>
 </p>
