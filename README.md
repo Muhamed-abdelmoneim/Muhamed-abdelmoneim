@@ -1,18 +1,25 @@
-<!-- ===================== HERO ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=900&color=2EC4B6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mohamed+Abd+El-Moneim;Technical+Data+Analyst;BI+%7C+SQL+%7C+Data+Modeling+%7C+Python;Turning+Data+Into+Business+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=900&color=2EC4B6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Muhammed+Abd+El-Moneim;Technical+Data+Analyst;Database+Design+%7C+BI+Specialist;Architecting+Data+into+Actionable+Insights" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Technical Data Analyst</b> focused on analytics, database design, business intelligence, and decision-driven insights.
+  <b>Technical Data Analyst & Database Designer</b> with a solid Computer Science background. <br>
+  I specialize in the full data lifecycle: from <b>SRS Analysis</b> and <b>EERD Modeling</b> to <b>Advanced Analytics</b> and <b>Secure BI Dashboards</b>.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Analysis-0B132B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Visualization-2EC4B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-1C2541?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Top_3_Hackathon-2EC4B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Architecture-0B132B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Advanced_SQL-2EC4B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI_Security-1C2541?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Top_3_Hackathon_Winner-2EC4B6?style=for-the-badge"/>
 </p>
+
+---
+
+## 🏆 Career Highlights
+- **Top 3 Winner** – Marketing Analytics Hackathon (Orange Digital Center & Instant Software).
+- **Scholarship Recipient** – Awarded BUE & AOU Merit Scholarships for academic excellence.
+- **Full-Stack Data Expert** – Proven ability to translate complex business requirements (SRS) into optimized physical schemas.
 
 ---
 
