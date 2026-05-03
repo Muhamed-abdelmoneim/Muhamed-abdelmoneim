@@ -8,12 +8,29 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Architecture-0B132B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Advanced_SQL-2EC4B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power_BI_Security-1C2541?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Top_3_Hackathon_Winner-2EC4B6?style=for-the-badge"/>
-</p>
+  <!-- Core Roles & Architecture -->
+  <img src="https://img.shields.io/badge/Data_Analyst-1C2541?style=for-the-badge&logo=analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database_Designer-2EC4B6?style=for-the-badge&logo=icloud&logoColor=1C2541&labelColor=2EC4B6"/>
+  <img src="https://img.shields.io/badge/Data_Architecture-1C2541?style=for-the-badge&logo=blueprint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL_Pipelines-2EC4B6?style=for-the-badge&logo=databricks&logoColor=1C2541&labelColor=2EC4B6"/>
+  <img src="https://img.shields.io/badge/Data_Warehousing-1C2541?style=for-the-badge&logo=data-warehouse&logoColor=white"/>
+  <br>
 
+  <!-- Tools & Databases -->
+  <img src="https://img.shields.io/badge/SQL_Server-2EC4B6?style=for-the-badge&logo=microsoft-sql-server&logoColor=1C2541&labelColor=2EC4B6"/>
+  <img src="https://img.shields.io/badge/MySQL-1C2541?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI_Platforms-2EC4B6?style=for-the-badge&logo=power-bi&logoColor=1C2541&labelColor=2EC4B6"/>
+  <img src="https://img.shields.io/badge/Excel-1C2541?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-2EC4B6?style=for-the-badge&logo=python&logoColor=1C2541&labelColor=2EC4B6"/>
+  <br>
+
+  <!-- Advanced Analytics & Achievements -->
+  <img src="https://img.shields.io/badge/Machine_Learning-1C2541?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-2EC4B6?style=for-the-badge&logo=tensorflow&logoColor=1C2541&labelColor=2EC4B6"/>
+  <img src="https://img.shields.io/badge/Statistical_Analysis-1C2541?style=for-the-badge&logo=statistics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Storytelling-2EC4B6?style=for-the-badge&logo=metabase&logoColor=1C2541&labelColor=2EC4B6"/>
+  <img src="https://img.shields.io/badge/Top_3_Hackathon_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=1C2541&labelColor=FFD700"/>
+</p>
 ---
 
 ## 🏆 Career Highlights
