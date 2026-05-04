@@ -59,11 +59,20 @@ I work across the full data lifecycle — from understanding business requiremen
 
 ## 🛠 Skills & Tools
 
-### 🔹 Data Analysis
+### 🧠 Analytical Mindest
 ![EDA](https://img.shields.io/badge/EDA-0B132B?style=for-the-badge)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-2EC4B6?style=for-the-badge)
-![KPI Analysis](https://img.shields.io/badge/KPI_Analysis-1C2541?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Statistics-0B132B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Descriptive_Analysis-0B132B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Sampling_Techniques-0B132B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Probability_Fundamentals-0B132B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Hypothesis_Testing-0B132B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Correlation_VS_Caustation_Analysis-0B132B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Regression_Analysis-0B132B?style=for-the-badge)
+![KPI Analysis](https://img.shields.io/badge/KPI_Analysis-0B132B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Critical_Thinking-0B132B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Business_Acumen-0B132B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Data_Storytelling-0B132B?style=for-the-badge)
+
 
 ---
 
@@ -100,64 +109,55 @@ I work across the full data lifecycle — from understanding business requiremen
 <img src="https://img.shields.io/badge/Backup_&_Recovery-1C2541?style=for-the-badge&logo=icloud&logoColor=white"/>
 </p>
 
-
----
-
-### 🔹 Data Modeling
-![ERD](https://img.shields.io/badge/ERD_&_EERD-1C2541?style=for-the-badge)
-![Normalization](https://img.shields.io/badge/Normalization-0B132B?style=for-the-badge)
-![Schema Mapping](https://img.shields.io/badge/Schema_Mapping-2EC4B6?style=for-the-badge)
-![Relational Design](https://img.shields.io/badge/Relational_Design-1C2541?style=for-the-badge)
-
 ---
 
 ###  📊 Power BI & Data Engineering Ecosystem
 **🔹 Data Modeling & Architecture**
 <p>
-<img src="https://img.shields.io/badge/Data_Modeling-1C2541?style=for-the-badge&logo=diagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Normalization_&_Denormalization-1C2541?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Star_Schema-1C2541?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Snowflake_&_Galaxy_Schema-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Modeling-0B132B?style=for-the-badge&logo=diagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Normalization_&_Denormalization-0B132B?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Star_Schema-0B132B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snowflake_&_Galaxy_Schema-0B132B?style=for-the-badge"/>
 </p>
 
 **🔹 ETL, Power Query & Data Shaping**
 <p>
-<img src="https://img.shields.io/badge/ETL_&_ELT_Pipelines-1C2541?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dataflows-1C2541?style=for-the-badge&logo=power-bi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query_Editor-1C2541?style=for-the-badge&logo=powerquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/M_Language-1C2541?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Transformation_&_Shaping-1C2541?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Cleaning_&_Pre_Processing-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL_&_ELT_Pipelines-0B132B?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dataflows-0B132B?style=for-the-badge&logo=power-bi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query_Editor-0B132B?style=for-the-badge&logo=powerquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/M_Language-0B132B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Transformation_&_Shaping-0B132B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Cleaning_&_Pre_Processing-0B132B?style=for-the-badge"/>
 </p>
 
 **🔹 Security, Governance & Deployment**
 <p>
-<img src="https://img.shields.io/badge/RLS_Security-1C2541?style=for-the-badge&logo=security-scorecard&logoColor=white"/>
-<img src="https://img.shields.io/badge/Endorsement_&_Governance-1C2541?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/On--Premises_Gateway-1C2541?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Integration_&_Deployment-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RLS_Security-0B132B?style=for-the-badge&logo=security-scorecard&logoColor=white"/>
+<img src="https://img.shields.io/badge/Endorsement_&_Governance-0B132B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/On--Premises_Gateway-0B132B?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Integration_&_Deployment-0B132B?style=for-the-badge"/>
 </p>
 
 **🔹 Advanced DAX & Analytics**
 <p>
-<img src="https://img.shields.io/badge/Advanced_DAX-1C2541?style=for-the-badge&logo=power-bi&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX_Studio-1C2541?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/What--If_Parameters-1C2541?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistical_EDA-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Advanced_DAX-0B132B?style=for-the-badge&logo=power-bi&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX_Studio-0B132B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/What--If_Parameters-0B132B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistical_EDA-0B132B?style=for-the-badge"/>
 </p>
 
 **🔹 Performance & Optimization**
 <p>
-<img src="https://img.shields.io/badge/Connectivity_Modes-1C2541?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Performance_Tuning-1C2541?style=for-the-badge&logo=speedtest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Incremental_Refresh-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Connectivity_Modes-0B132B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance_Tuning-0B132B?style=for-the-badge&logo=speedtest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Incremental_Refresh-0B132B?style=for-the-badge"/>
 </p>
 
 **🔹 Visualization & Business Intelligence**
 <p>
-<img src="https://img.shields.io/badge/Data_Storytelling-1C2541?style=for-the-badge&logo=metabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visualization_Best_Practices-1C2541?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business_Understanding-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Storytelling-0B132B?style=for-the-badge&logo=metabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visualization_Best_Practices-0B132B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Understanding-0B132B?style=for-the-badge"/>
 </p>
 
 
