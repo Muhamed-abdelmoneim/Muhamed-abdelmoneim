@@ -307,11 +307,13 @@ ROI/CPA.
 ## 📬 Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamedmoneim10">
-    <img src="https://img.shields.io/badge/LinkedIn-0B132B?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:Mohamed.abd.elmoneim1220@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2EC4B6?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201557967888">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
