@@ -317,8 +317,31 @@ ROI/CPA.
   </a>
 </p>
 
+<p align="left">
+  <!-- Email -->
+  <a href="mailto:Mohamed.abd.elmoneim1220@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohamedmoneim10">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201557967888">
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="45" height="45" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/Muhamed-abdelmoneim">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+  </a>
+</p>
 ---
-
+<p align="center">
+  <img src="https://stats.hyperweave.io/api/stats/Muhamed-abdelmoneim?theme=dark" alt="GitHub Stats" />
+</p>
 <p align="center">
 <i>"Good data tells you what happened. Great analysis tells you why."</i>
 </p>
