@@ -71,7 +71,11 @@ I work across the full data lifecycle — from understanding business requiremen
 **🔹 Database Architecture & Design**
 <p>
 <img src="https://img.shields.io/badge/Relational_Schema_Design-1C2541?style=for-the-badge&logo=diagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/EER_Diagramming-1C2541?style=for-the-badge&logo=drawio&logoColor=white"/>
+  
+   <img src="https://img.shields.io/badge/SRS_Requierments_file_to_EER_Diagram-1C2541?style=for-the-badge&logo=diagram&logoColor=white"/>
+   <img src="https://img.shields.io/badge/EER_Diagram_to_Conceptual_Schema-1C2541?style=for-the-badge&logo=diagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Conceptual_Schema_to_Physical_Schema-1C2541?style=for-the-badge&logo=diagram&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Normalization_&_Denormalization-1C2541?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data_Constraints_&_Integrity-1C2541?style=for-the-badge&logo=security-scorecard&logoColor=white"/>
 </p>
