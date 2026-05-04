@@ -31,24 +31,29 @@
   <img src="https://img.shields.io/badge/Data_Storytelling-2EC4B6?style=for-the-badge&logo=metabase&logoColor=1C2541&labelColor=2EC4B6"/>
   <img src="https://img.shields.io/badge/Top_3_Hackathon_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=1C2541&labelColor=FFD700"/>
 </p>
+
 ---
+
 
 ## 🏆 Career Highlights
 - **Top 3 Winner** – Marketing Analytics Hackathon (Orange Digital Center & Instant Software).
 - **Scholarship Recipient** – Awarded BUE & AOU Merit Scholarships for academic excellence.
-- **Full-Stack Data Expert** – Proven ability to translate complex business requirements (SRS) into optimized physical schemas.
-
+- **Full-Stack Data Designer** – Proven ability to translate complex business requirements (SRS) into optimized physical schemas.
+- **Software Engineer** – Contributed to the development and optimization of AI models using advanced mathematical and programming
+solutions.And Applied problem-solving techniques to improve algorithm performance in AI-driven projects..
 ---
 
 ## 👋 About Me
 
 I work across the full data lifecycle — from understanding business requirements and designing relational databases, to analyzing data, building dashboards, and generating actionable insights.
 
-- 📊 Data analysis, KPI monitoring & storytelling  
+- 📊 Data analysis, KPI monitoring & storytelling
+- 🧠 Data Management, Data Abstraction and Data Warehousing Techniques
 - 🗄 Database design, normalization & schema modeling  
-- 📈 Power BI dashboards with advanced DAX & RLS security  
-- 🧠 Business-oriented analytical problem solving  
+- 📈 Power BI dashboards with advanced DAX & RLS security & Endoresment levels
+- 💡 Business-oriented analytical problem solving  
 - 🐍 Python for automation, EDA & machine learning
+- 💻 Software Engineering & Applying CS fundamentals and robust algorithmic problem-solving techniques to ensure high-quality technical deliverables.
 
 ---
 
