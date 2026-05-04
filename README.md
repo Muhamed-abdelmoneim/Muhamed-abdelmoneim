@@ -1,6 +1,10 @@
-<h1 align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=900&color=2EC4B6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Muhammed+Abd+El-Moneim;Technical+Data+Analyst;Database+Designer+%7C+BI+Specialist;Architecting+Data+into+Actionable+Insights" alt="Typing SVG" />
-</h1>
+</div>
+
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 <p align="center">
   <b>Technical Data Analyst & Database Designer</b> with a solid Computer Science background. <br>
@@ -32,7 +36,9 @@
   <img src="https://img.shields.io/badge/Top_3_Hackathon_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=1C2541&labelColor=FFD700"/>
 </p>
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 
 ## 🏆 Career Highlights
@@ -41,7 +47,11 @@
 - **Full-Stack Data Designer** – Proven ability to translate complex business requirements (SRS) into optimized physical schemas.
 - **Software Engineer** – Contributed to the development and optimization of AI models using advanced mathematical and programming
 solutions.And Applied problem-solving techniques to improve algorithm performance in AI-driven projects..
----
+
+
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ## 👋 About Me
 
@@ -55,7 +65,9 @@ I work across the full data lifecycle — from understanding business requiremen
 - 🐍 Python for automation, EDA & machine learning
 - 💻 Software Engineering & Applying CS fundamentals and robust algorithmic problem-solving techniques to ensure high-quality technical deliverables.
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ## 🛠 Skills & Tools
 
@@ -75,7 +87,9 @@ I work across the full data lifecycle — from understanding business requiremen
 ![Statistics](https://img.shields.io/badge/Data_Storytelling-0B132B?style=for-the-badge)
 
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ### 🗄️ SQL & Databases
 **🔹 Database Architecture & Design**
@@ -110,7 +124,9 @@ I work across the full data lifecycle — from understanding business requiremen
 <img src="https://img.shields.io/badge/Backup_&_Recovery-1C2541?style=for-the-badge&logo=icloud&logoColor=white"/>
 </p>
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ###  📊 Power BI & Data Engineering Ecosystem
 **🔹 Data Modeling & Architecture**
@@ -162,7 +178,9 @@ I work across the full data lifecycle — from understanding business requiremen
 </p>
 
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ### 🐍 Python & Automation
 
@@ -188,7 +206,9 @@ I work across the full data lifecycle — from understanding business requiremen
 <img src="https://img.shields.io/badge/Model_Evaluation_Metrics-1C2541?style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ### 🛠️ Tools
 
@@ -226,7 +246,9 @@ I work across the full data lifecycle — from understanding business requiremen
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
  
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ## 📂 Featured Projects
 
@@ -243,7 +265,9 @@ ROI/CPA.
 
 [![🛒 ShopEasy – Marketing Analytics – Hackathon Project](https://img.shields.io/badge/Project-Marketing_Analytics-2EC4B6?style=for-the-badge&logo=github)](https://github.com/Muhamed-abdelmoneim/ShopEasy-Marketing-Analytics__Hackathon-Project)
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ### 🤖 Credit Card Fraud Detection system
 - Developed fraud detection system using Kaggle dataset (284,807 transactions, 31 features).
@@ -256,7 +280,9 @@ ROI/CPA.
 
 [![Credit Card Fraud Detection](https://img.shields.io/badge/FRAUD_DETECTION-2EC4B6?style=for-the-badge&logo=github&label=PROJECT&labelColor=555555)](https://github.com/Muhamed-abdelmoneim/Credit-Card-Fraud-Detection-System-Using-ML-DL__GP)
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ### 🔐 Power BI Dynamic RLS Security
 -  Designed and implemented enterprise-level Row-Level Security (RLS) for employees, managers, and admins.
@@ -268,7 +294,9 @@ ROI/CPA.
 
 [![Dynamic RLS Security Project](https://img.shields.io/badge/DYNAMIC_RLS_SECURITY-1C2541?style=for-the-badge&logo=powerbi&label=PROJECT&labelColor=555555)](https://drive.google.com/file/d/1MDyT_y16Hx3EcKY-EpU0lP_ibnv-oi2P/view?usp=sharing)
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ## 🚀 What I Focus On
 
@@ -282,7 +310,9 @@ ROI/CPA.
 
 - 💡 Business-Centric Problem Solving: Bridging the gap between technical complexity and business needs through proactive communication and strategic analysis.
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ## 🌱 Currently Exploring
 - Advanced DAX Optimization  
@@ -290,8 +320,9 @@ ROI/CPA.
 - ETL Pipelines  
 - Query Performance Tuning  
 
----
-
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -302,7 +333,9 @@ ROI/CPA.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamed-abdelmoneim&theme=dark"/>
 </p>
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
+</p>
 
 ## 📬 Contact
 <p align="left">
@@ -320,11 +353,9 @@ ROI/CPA.
   </a>
 </p>
 
-
 <p align="center">
-  <img src="https://hyperweave.app/a/inneraura/dividers/takeoff" alt="takeoff divider" width="100%"/>
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
 </p>
-
 
 <p align="center">
 <i>"Good data tells you what happened. Great analysis tells you why."</i>
