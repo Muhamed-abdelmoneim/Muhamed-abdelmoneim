@@ -66,6 +66,7 @@ I work across the full data lifecycle — from understanding business requiremen
 ![Statistics](https://img.shields.io/badge/Sampling_Techniques-0B132B?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Probability_Fundamentals-0B132B?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Hypothesis_Testing-0B132B?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Handling_Outliers_IQR-0B132B?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Correlation_VS_Caustation_Analysis-0B132B?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Regression_Analysis-0B132B?style=for-the-badge)
 ![KPI Analysis](https://img.shields.io/badge/KPI_Analysis-0B132B?style=for-the-badge)
