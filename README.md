@@ -321,7 +321,10 @@ ROI/CPA.
 </p>
 
 
----
+<p align="center">
+  <img src="https://hyperweave.app/a/inneraura/dividers/takeoff" alt="takeoff divider" width="100%"/>
+</p>
+
 
 <p align="center">
 <i>"Good data tells you what happened. Great analysis tells you why."</i>
