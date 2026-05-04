@@ -315,20 +315,7 @@ ROI/CPA.
   <a href="https://wa.me/201557967888">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-</p>
-
-
-<p align="left">
-  <a href="mailto:Mohamed.abd.elmoneim1220@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamedmoneim10">
-    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/201557967888">
-    <img src="https://img.shields.io/badge/-WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
-  </a>
-  <a href="https://github.com/Muhamed-abdelmoneim">
+    <a href="https://github.com/Muhamed-abdelmoneim">
     <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
