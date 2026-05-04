@@ -231,44 +231,56 @@ I work across the full data lifecycle — from understanding business requiremen
 ## 📂 Featured Projects
 
 ### 📊 Marketing Analytics Hackathon (Top 3 Winner)
-- Built marketing analytics solution for conversion & ROI decline  
-- Designed advanced KPIs using Power BI and DAX  
-- Performed SQL analysis using nested CTEs  
-- Applied sentiment analysis using Python
+- Developed a marketing analytics solution to identify causes of declining conversion rates and low ROI.
+- Restored and cleaned .bak database using SQL Server and Nested CTEs across 5 core tables: Customers, Products,
+Journey, Reviews, Engagement.
+- Ensured 100% data accuracy by handling duplicates, nulls, and formatting issues.
+- Engineered advanced KPIs in Power BI: Conversion Rate, Average Order Value (AOV), Customer Engagement Rate,
+ROI/CPA.
+- Conducted sentiment analysis on customer reviews to identify pain points.
+- Visualized the customer journey and provided actionable recommendations.
+- Presented insights via live Power BI dashboards embedded in PowerPoint.
 
 [![🛒 ShopEasy – Marketing Analytics – Hackathon Project](https://img.shields.io/badge/Project-Marketing_Analytics-2EC4B6?style=for-the-badge&logo=github)](https://github.com/Muhamed-abdelmoneim/ShopEasy-Marketing-Analytics__Hackathon-Project)
 
 ---
 
 ### 🤖 Credit Card Fraud Detection system
-• Developed fraud detection system using Kaggle dataset (284,807 transactions, 31 features).
-• Addressed class imbalance using NearMiss to create 50/50 Fraud vs Non-Fraud ratio.
-• Selected and evaluated classifiers: Logistic Regression, Decision Trees, Random Forest, Neural Networks.
-• Built Neural Network and compared performance against best classifier.
-• Evaluated models with accuracy, precision, recall, and F1 score; achieved high reliability.
-• Reduced potential financial losses by accurately distinguishing legitimate vs fraudulent transactions.
-• Developed basic HTML/CSS/JS interface to demonstrate deployment. 
+- Developed fraud detection system using Kaggle dataset (284,807 transactions, 31 features).
+- Addressed class imbalance using NearMiss to create 50/50 Fraud vs Non-Fraud ratio.
+- Selected and evaluated classifiers: Logistic Regression, Decision Trees, Random Forest, Neural Networks.
+- Built Neural Network and compared performance against best classifier.
+- Evaluated models with accuracy, precision, recall, and F1 score; achieved high reliability.
+- Reduced potential financial losses by accurately distinguishing legitimate vs fraudulent transactions.
+- Developed basic HTML/CSS/JS interface to demonstrate deployment. 
 
-[![🛡️ Credit Card Fraud Detection](https://img.shields.io/badge/Credit%20Card%20Fraud%20Detection-2EC4B6?style=for-the-badge&logo=github)](https://github.com/Muhamed-abdelmoneim/Credit-Card-Fraud-Detection-System-Using-ML-DL__GP)
+[![Credit Card Fraud Detection](https://img.shields.io/badge/FRAUD_DETECTION-2EC4B6?style=for-the-badge&logo=github&label=PROJECT&labelColor=555555)](https://github.com/Muhamed-abdelmoneim/Credit-Card-Fraud-Detection-System-Using-ML-DL__GP)
 
 ---
 
 ### 🔐 Power BI Dynamic RLS Security
-• Designed and implemented enterprise-level Row-Level Security (RLS) for employees, managers, and admins.
-• Built a custom security dimension (INFO SEC) to manage users, emails, territories, and hierarchy.
-• Applied dynamic user-based filtering with USERPRINCIPALNAME() and managerial access logic.
-• Developed multi-level hierarchical security using DAX-based hierarchy logic.
-• Created role-based access models: Employee (self), Manager (team), Admin (full access).
-• Ensured secure RLS propagation across fact and dimension tables; tested using Power BI Service.
+-  Designed and implemented enterprise-level Row-Level Security (RLS) for employees, managers, and admins.
+- Built a custom security dimension (INFO SEC) to manage users, emails, territories, and hierarchy.
+- Applied dynamic user-based filtering with USERPRINCIPALNAME() and managerial access logic.
+- Developed multi-level hierarchical security using DAX-based hierarchy logic.
+- Created role-based access models: Employee (self), Manager (team), Admin (full access).
+- Ensured secure RLS propagation across fact and dimension tables; tested using Power BI Service.
+
+[![Dynamic RLS Security Project](https://img.shields.io/badge/DYNAMIC_RLS_SECURITY-1C2541?style=for-the-badge&logo=powerbi&label=PROJECT&labelColor=555555)](https://drive.google.com/file/d/1MDyT_y16Hx3EcKY-EpU0lP_ibnv-oi2P/view?usp=sharing)
 
 ---
 
 ## 🚀 What I Focus On
-✔ Business-Oriented Analysis  
-✔ Reliable Data Modeling  
-✔ Secure BI Solutions  
-✔ Decision-Driven Dashboards  
-✔ Analytical Problem Solving
+
+- 📊 End-to-End Data Storytelling: Transforming raw datasets into compelling visual narratives that empower stakeholders to make data-driven decisions.
+
+- 🏗️ Robust Data Architecture: Designing scalable database schemas and optimized ETL pipelines to ensure high data integrity and performance.
+
+- 🧠 Advanced Analytical Logic: Leveraging Complex DAX and Statistical Python models to uncover hidden patterns and provide predictive insights.
+
+- 🔐 Data Security & Governance: Implementing enterprise-level security models (like RLS) to protect sensitive information while maintaining accessibility.
+
+- 💡 Business-Centric Problem Solving: Bridging the gap between technical complexity and business needs through proactive communication and strategic analysis.
 
 ---
 
