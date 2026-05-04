@@ -164,21 +164,68 @@ I work across the full data lifecycle — from understanding business requiremen
 
 ---
 
-### 🔹 Python & Automation
-![Python](https://img.shields.io/badge/Python-1C2541?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-0B132B?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-2EC4B6?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-1C2541?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-0B132B?style=for-the-badge)
+### 🐍 Python & Automation
+
+<p>
+<img src="https://img.shields.io/badge/Statistical_EDA-1C2541?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Outlier_Detection_(IQR_Method)-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Imputation_&_Cleaning-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas_&_NumPy-1C2541?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlip_&_Seaborn-1C2541?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Process_Automation-1C2541?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Data_Extraction-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web_Scraping-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Script_Optimization-1C2541?style=for-the-badge"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning_Fundamentals-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Forecasting-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-1C2541?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Classification_&_Regression-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model_Evaluation_Metrics-1C2541?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🔹 Tools
-![Excel](https://img.shields.io/badge/Excel-2EC4B6?style=for-the-badge&logo=microsoft-excel)
-![Databricks](https://img.shields.io/badge/Databricks-1C2541?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-0B132B?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-2EC4B6?style=for-the-badge)
+### 🛠️ Tools
 
+<p align="center">
+  <!-- Data Analysis & Office -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NovyPro-000000?style=for-the-badge&logo=power-bi&logoColor=white"/>
+  <br>
+
+  <!-- Programming & Development -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <br>
+
+  <!-- Databases & Engineering -->
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <br>
+
+  <!-- Version Control & Hosting -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <br>
+
+  <!-- Specialized BI Tools & Design -->
+  <img src="https://img.shields.io/badge/DAX_Studio-005A9E?style=for-the-badge&logo=power-bi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tabular_Editor-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+ 
 ---
 
 ## 📂 Featured Projects
@@ -187,21 +234,32 @@ I work across the full data lifecycle — from understanding business requiremen
 - Built marketing analytics solution for conversion & ROI decline  
 - Designed advanced KPIs using Power BI and DAX  
 - Performed SQL analysis using nested CTEs  
-- Applied sentiment analysis using Python  
+- Applied sentiment analysis using Python
+
+[![🛒 ShopEasy – Marketing Analytics – Hackathon Project](https://img.shields.io/badge/Project-Marketing_Analytics-2EC4B6?style=for-the-badge&logo=github)](https://github.com/Muhamed-abdelmoneim/ShopEasy-Marketing-Analytics__Hackathon-Project)
+
+---
+
+### 🤖 Credit Card Fraud Detection system
+• Developed fraud detection system using Kaggle dataset (284,807 transactions, 31 features).
+• Addressed class imbalance using NearMiss to create 50/50 Fraud vs Non-Fraud ratio.
+• Selected and evaluated classifiers: Logistic Regression, Decision Trees, Random Forest, Neural Networks.
+• Built Neural Network and compared performance against best classifier.
+• Evaluated models with accuracy, precision, recall, and F1 score; achieved high reliability.
+• Reduced potential financial losses by accurately distinguishing legitimate vs fraudulent transactions.
+• Developed basic HTML/CSS/JS interface to demonstrate deployment. 
+
+[![🛡️ Credit Card Fraud Detection](https://img.shields.io/badge/Credit%20Card%20Fraud%20Detection-2EC4B6?style=for-the-badge&logo=github)](https://github.com/Muhamed-abdelmoneim/Credit-Card-Fraud-Detection-System-Using-ML-DL__GP)
 
 ---
 
 ### 🔐 Power BI Dynamic RLS Security
-- Built enterprise-level row-level security model  
-- Implemented dynamic user filtering using DAX  
-- Designed multi-level hierarchical access logic  
-
----
-
-### 🤖 Credit Card Fraud Detection
-- Built and evaluated machine learning models  
-- Solved class imbalance issues  
-- Compared multiple classifiers for fraud detection  
+• Designed and implemented enterprise-level Row-Level Security (RLS) for employees, managers, and admins.
+• Built a custom security dimension (INFO SEC) to manage users, emails, territories, and hierarchy.
+• Applied dynamic user-based filtering with USERPRINCIPALNAME() and managerial access logic.
+• Developed multi-level hierarchical security using DAX-based hierarchy logic.
+• Created role-based access models: Employee (self), Manager (team), Admin (full access).
+• Ensured secure RLS propagation across fact and dimension tables; tested using Power BI Service.
 
 ---
 
