@@ -67,12 +67,35 @@ I work across the full data lifecycle — from understanding business requiremen
 
 ---
 
-### 🔹 SQL & Databases
-![SQL](https://img.shields.io/badge/SQL-0B132B?style=for-the-badge&logo=postgresql)
-![CTEs](https://img.shields.io/badge/Nested_CTEs-2EC4B6?style=for-the-badge)
-![Window Functions](https://img.shields.io/badge/Window_Functions-1C2541?style=for-the-badge)
-![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-0B132B?style=for-the-badge)
-![Indexing](https://img.shields.io/badge/Query_Optimization-2EC4B6?style=for-the-badge)
+### 🗄️ SQL & Databases
+**🔹 Database Architecture & Design**
+<p>
+<img src="https://img.shields.io/badge/Relational_Schema_Design-1C2541?style=for-the-badge&logo=diagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/EER_Diagramming-1C2541?style=for-the-badge&logo=drawio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Normalization_&_Denormalization-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Constraints_&_Integrity-1C2541?style=for-the-badge&logo=security-scorecard&logoColor=white"/>
+</p>
+
+**🔹 Advanced SQL & Query Optimization**
+<p>
+<img src="https://img.shields.io/badge/T--SQL%20%26%20MySQL%20%26%20SQL%20Server-1C2541?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Window%20Functions%20%26%20CTEs-1C2541?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Complex%20Joins%20%26%20Subqueries-1C2541?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Views%20%26%20Materialized%20Views-1C2541?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stored%20Procedures-1C2541?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Query%20Performance%20Tuning-1C2541?style=for-the-badge&logo=speedtest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Indexing%20%26%20Triggers-1C2541?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Query%20Execution%20Plan-1C2541?style=for-the-badge"/>
+</p>
+
+**🔹 Database Operations & Migration**
+<p>
+<img src="https://img.shields.io/badge/Data_Migration_(SQL_to_MySQL)-1C2541?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python_Scripts_&_Stored_Procedures-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Cleaning_via_SQL-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backup_&_Recovery-1C2541?style=for-the-badge&logo=icloud&logoColor=white"/>
+</p>
+
 
 ---
 
@@ -84,12 +107,55 @@ I work across the full data lifecycle — from understanding business requiremen
 
 ---
 
-### 🔹 Power BI
-![Power BI](https://img.shields.io/badge/Power_BI-0B132B?style=for-the-badge&logo=powerbi)
-![DAX](https://img.shields.io/badge/DAX-2EC4B6?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-1C2541?style=for-the-badge)
-![RLS](https://img.shields.io/badge/RLS_Security-0B132B?style=for-the-badge)
-![Star Schema](https://img.shields.io/badge/Star_Schema-2EC4B6?style=for-the-badge)
+###  📊 Power BI & Data Engineering Ecosystem
+**🔹 Data Modeling & Architecture**
+<p>
+<img src="https://img.shields.io/badge/Data_Modeling-1C2541?style=for-the-badge&logo=diagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Normalization_&_Denormalization-1C2541?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Star_Schema-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snowflake_&_Galaxy_Schema-1C2541?style=for-the-badge"/>
+</p>
+
+**🔹 ETL, Power Query & Data Shaping**
+<p>
+<img src="https://img.shields.io/badge/ETL_&_ELT_Pipelines-1C2541?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dataflows-1C2541?style=for-the-badge&logo=power-bi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query_Editor-1C2541?style=for-the-badge&logo=powerquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/M_Language-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Transformation_&_Shaping-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Cleaning_&_Pre_Processing-1C2541?style=for-the-badge"/>
+</p>
+
+**🔹 Security, Governance & Deployment**
+<p>
+<img src="https://img.shields.io/badge/RLS_Security-1C2541?style=for-the-badge&logo=security-scorecard&logoColor=white"/>
+<img src="https://img.shields.io/badge/Endorsement_&_Governance-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/On--Premises_Gateway-1C2541?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Integration_&_Deployment-1C2541?style=for-the-badge"/>
+</p>
+
+**🔹 Advanced DAX & Analytics**
+<p>
+<img src="https://img.shields.io/badge/Advanced_DAX-1C2541?style=for-the-badge&logo=power-bi&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX_Studio-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/What--If_Parameters-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistical_EDA-1C2541?style=for-the-badge"/>
+</p>
+
+**🔹 Performance & Optimization**
+<p>
+<img src="https://img.shields.io/badge/Connectivity_Modes-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance_Tuning-1C2541?style=for-the-badge&logo=speedtest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Incremental_Refresh-1C2541?style=for-the-badge"/>
+</p>
+
+**🔹 Visualization & Business Intelligence**
+<p>
+<img src="https://img.shields.io/badge/Data_Storytelling-1C2541?style=for-the-badge&logo=metabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visualization_Best_Practices-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Understanding-1C2541?style=for-the-badge"/>
+</p>
+
 
 ---
 
