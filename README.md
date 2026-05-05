@@ -185,11 +185,14 @@ I work across the full data lifecycle — from understanding business requiremen
 ### 🐍 Python & Automation
 
 <p>
-<img src="https://img.shields.io/badge/Statistical_EDA-1C2541?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Outlier_Detection_(IQR_Method)-1C2541?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Imputation_&_Cleaning-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Structure_&_Algorithms-1C2541?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pandas_&_NumPy-1C2541?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlip_&_Seaborn-1C2541?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Modeling-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Imputation_&_Cleaning-1C2541?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistical_EDA-1C2541?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Outlier_Detection_(IQR_Method)-1C2541?style=for-the-badge"/>  
 </p>
 <p>
 <img src="https://img.shields.io/badge/Process_Automation-1C2541?style=for-the-badge&logo=probot&logoColor=white"/>
