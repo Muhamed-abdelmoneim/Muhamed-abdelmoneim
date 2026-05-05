@@ -295,7 +295,7 @@ ROI/CPA.
 - Created role-based access models: Employee (self), Manager (team), Admin (full access).
 - Ensured secure RLS propagation across fact and dimension tables; tested using Power BI Service.
 
-[![Dynamic RLS Security Project](https://img.shields.io/badge/DYNAMIC_RLS_SECURITY-1C2541?style=for-the-badge&logo=powerbi&label=PROJECT&labelColor=555555)](https://drive.google.com/file/d/1MDyT_y16Hx3EcKY-EpU0lP_ibnv-oi2P/view?usp=sharing)
+[![Dynamic RLS Security Project](https://img.shields.io/badge/DYNAMIC_RLS_SECURITY-2EC4B6?style=for-the-badge&logo=github&label=PROJECT&labelColor=555555)](https://drive.google.com/file/d/1MDyT_y16Hx3EcKY-EpU0lP_ibnv-oi2P/view?usp=sharing)
 
 <p align="center">
   <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
