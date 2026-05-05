@@ -326,11 +326,8 @@ ROI/CPA.
 <p align="center">
   <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="chrome band divider" width="100%"/>
 </p>
-## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhamed-abdelmoneim&show_icons=true&theme=dark"/>
-</p>
+## 📈 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamed-abdelmoneim&theme=dark"/>
